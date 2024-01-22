@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gauravpatil-8
+- 👋 Hi, I’m Gaurav
 - 👀 I’m interested in AI and Deep Learning
 - 📫 How to reach me: patilgauravpradeep@gmail.com
 - ⚡ Fun fact: I'm a hobbyist 3D artist
