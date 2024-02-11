@@ -10,7 +10,6 @@ I'm a passionate AI enthusiast and hobbyist 3D artist with a love for exploring 
 
 Let's connect and explore the exciting world of AI and creativity together!
 
-![Rocket](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 
