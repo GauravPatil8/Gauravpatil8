@@ -1,20 +1,19 @@
-# Hi there! 👋 I'm Gaurav
+# Hi there! 👋
 
-I'm a passionate AI enthusiast and hobbyist 3D artist with a love for exploring the depths of **Deep Learning**.
+I'm passionate about artificial intelligence and data science, constantly exploring the intersections of these fields to create meaningful applications. Here's a bit about me:
 
-👀 I'm interested in **AI** and **Deep Learning**.
+- 🔭 I’m currently working on enhancing my skills in AI and data science.
+- 🌱 I’m currently learning advanced techniques in machine learning and deep learning.
+- 💬 Ask me about: Anything related to AI, data science, or programming!
+- 📫 How to reach me: [patilgauravpradeep@gmail.com](mailto:patilgauravpradeep@gmail.com)
 
-📫 You can reach me at: patilgauravpradeep@gmail.com
+## Skills
 
-⚡ Fun fact: I'm also a hobbyist 3D artist!
+- <span style="color:#007ACC">Languages:</span> C, C++, Java, Python
+- <span style="color:#007ACC">Tools:</span> TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
+- <span style="color:#007ACC">Databases:</span> MySQL
 
-Let's connect and explore the exciting world of **AI** and creativity together!
 
----
+Feel free to reach out and connect with me!
 
-**Coding Languages I Know:**
 
-- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C**
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
-- ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) **SQL**
