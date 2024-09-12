@@ -25,5 +25,5 @@ I'm an undergraduate specializing in **Artificial Intelligence and Data Science*
 
 ---
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauravpatil-8&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravpatil-8&layout=compact&theme=radical)
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauravpatil8&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravpatil8&layout=compact&theme=radical)
