@@ -13,14 +13,14 @@ I'm an undergraduate specializing in **Artificial Intelligence and Data Science*
 
 ### 🚀 **Projects** 
 
-1. **[Real-time Asset Organizer](https://github.com/Gauravpatil-8)**  
+1. **[Real-time Asset Organizer](https://github.com/Gauravpatil8/Real-time-Asset-Organiser)**  
    Organizes assets in real-time during downloads using Python, Blender API, and SQLite.
 
 
 ### 📫 **Contact Me**
 
 - **Email**: patilgauravpradeep@gmail.com
-- **GitHub**: [Gauravpatil-8](https://github.com/Gauravpatil-8)
+- **GitHub**: [Gauravpatil-8](https://github.com/Gauravpatil8)
 - **LinkedIn**: [Gaurav Patil](https://www.linkedin.com/in/gauravpatil8)
 
 ---
