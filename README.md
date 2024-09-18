@@ -25,5 +25,6 @@ I'm an undergraduate specializing in **Artificial Intelligence and Data Science*
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpatil8&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil8" /> </p>
+---
 ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauravpatil8&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravpatil8&layout=compact&theme=radical)
